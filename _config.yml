@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   HypertextAssassin0273.github.io
+url:                   wh04m1r00t.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -16,22 +16,22 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  es
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Elwhoami
+title:                 whoami
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
- An enthusiastic learner & coder who's eager to enhance its coding skills. Currently, undergraduate at NUCES FAST. Interested in Cyber Security & Artificial Intelligence.
+ Estudiante Analista en Computacion Cientifica de la Universidad de Santiago de Chile. Actualmente me desempeño en labores de consultoría, principalmente en privacidad y proteccion de datos.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Developer' -- Inquisitive Coder' -- Cyber Enthusiast'
+  Consultor Ciberseguridad' -- Privacidad' -- Protección de datos'
 
 # A list of keywords for your blog
-keywords:              [engineer, developer, hacker, hardware, fastian, karachiite]
+keywords:              [Ciberseguridad, Cybersecurity, Privacidad, Privacy, Protection, Hacker]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
