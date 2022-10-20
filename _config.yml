@@ -24,11 +24,11 @@ title:                 whoami
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
- Estudiante Analista en Computacion Cientifica de la Universidad de Santiago de Chile. Actualmente me desempeño en labores de consultoría, principalmente en privacidad y proteccion de datos.
+Estudiante Analista en Computacion Cientifica de la Universidad de Santiago de Chile. Actualmente me desempeño en labores de consultoría, principalmente en privacidad y proteccion de datos.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Consultor Ciberseguridad' -- Privacidad' -- Protección de datos'
+  Consultor Ciberseguridad -- Privacidad -- Protección de datos
 
 # A list of keywords for your blog
 keywords:              [Ciberseguridad, Cybersecurity, Privacidad, Privacy, Protection, Hacker]
@@ -40,21 +40,21 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Shahzaib> <Ahmed>
-  email:               <shazaibahmed0000@gmail.com>
+  name:                <Whoami> <Root>
+#      email:               <shazaibahmed0000@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
-legal:
-  - title:             LICENSE
-    href:              /LICENSE/
+# legal:
+#   - title:             LICENSE
+#     href:              /LICENSE/
 #  - title:             Cookies Policy
 #    href:              /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. Shazaib Khan - All rights reserved.
+copyright:             © 2022. whoami - All rights reserved.
 
 # Format of the permalinks
 permalink:              /:categories/:year-:month-:day-:title/
@@ -324,9 +324,9 @@ remote_theme: hydecorp/hydejack@v9.0.4
 
 # Used on index and about sites
 social:
-  name:                <Shahzaib> <Ahmed>
+  name:                <wh04m1> <r00t>
   links:
-    - https://github.com/<HypertextAssassin0273>
+    - https://github.com/<wh04m1r00t>
 
 
 # Jekyll Compose Defaults
