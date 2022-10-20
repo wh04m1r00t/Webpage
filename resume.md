@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Résumé
+title: Resumen
 hide_description: true
 menu: true
 order: 5

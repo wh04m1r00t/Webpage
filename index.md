@@ -2,8 +2,8 @@
 cover: true
 image: /assets/img/hydejack-8.png
 title: "Sobre mi"
-hide_description: true
-description: "I can see that you've walked thousands of miles just to reach this website, but that’s just my homepage. Have fun…"
+hide_description: false
+# description: "I can see that you've walked thousands of miles just to reach this website, but that’s just my homepage. Have fun…"
 ---
 
 ## Hola, Soy Whoami! 🎉
@@ -12,7 +12,7 @@ Mi intención con este sitio web es mostrar herramientas, metodologías y utilid
 
 
 
-## Feel Free to Explore
+## Revisa mi sitio web
 
 * [Blog]{:.heading.flip-title} --- Just a glimpse into my engineering career.
 * [Proyectos]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
