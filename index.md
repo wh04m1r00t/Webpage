@@ -15,14 +15,14 @@ Mi intención con este sitio web es mostrar herramientas, metodologías y utilid
 ## Revisa mi sitio web
 
 * [Blog]{:.heading.flip-title} --- Just a glimpse into my engineering career.
-* [Proyectos]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
+<!-- * [Proyectos]{:.heading.flip-title} ---  Overview of my assorted end product ideas. -->
 <!-- * [Mini-Projects]{:.heading.flip-title} ---  My spare time practice projects. -->
-* [Certificaciones]{:.heading.flip-title} --- A few achievements, but rare ones.
+<!-- * [Certificaciones]{:.heading.flip-title} --- A few achievements, but rare ones. -->
 * [Resumen]{:.heading.flip-title} --- Summarized overview for my amazing experiences.
 {:.related-posts.faded}
 
 [blog]: blog-posts/
-[proyectos]: projects/
+<!-- [proyectos]: projects/ -->
 <!-- [mini-projects]: mini-projects/ -->
-[certificaciones]: certifications/
+<!-- [certificaciones]: certifications/ -->
 [resumen]: resume/
