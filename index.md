@@ -2,7 +2,7 @@
 cover: true
 image: /assets/img/hydejack-8.png
 title: "Sobre mi"
-hide_description: false
+hide_description: true
 description: "I can see that you've walked thousands of miles just to reach this website, but that’s just my homepage. Have fun…"
 ---
 
@@ -15,14 +15,14 @@ Mi intención con este sitio web es mostrar herramientas, metodologías y utilid
 ## Feel Free to Explore
 
 * [Blog]{:.heading.flip-title} --- Just a glimpse into my engineering career.
-* [Projects]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
+* [Proyectos]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
 <!-- * [Mini-Projects]{:.heading.flip-title} ---  My spare time practice projects. -->
 * [Certificaciones]{:.heading.flip-title} --- A few achievements, but rare ones.
 * [Resumen]{:.heading.flip-title} --- Summarized overview for my amazing experiences.
 {:.related-posts.faded}
 
 [blog]: blog-posts/
-[projects]: projects/
+[proyectos]: projects/
 <!-- [mini-projects]: mini-projects/ -->
 [certifications]: certifications/
 [resume]: resume/
