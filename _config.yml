@@ -23,8 +23,8 @@ title:                 whoami
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-Estudiante Analista en Computacion Cientifica de la Universidad de Santiago de Chile. Actualmente me desempeño en labores de consultoría, principalmente en privacidad y proteccion de datos
+description:           > 
+  Estudiante Analista en Computacion Cientifica de la Universidad de Santiago de Chile. Actualmente me desempeño en labores de consultoría, principalmente en privacidad y proteccion de datos
 
 # A shorter description for the sidebar.
 tagline:               >
