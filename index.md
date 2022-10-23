@@ -25,4 +25,4 @@ Mi intención con este sitio web es mostrar herramientas, metodologías y utilid
 <!-- [proyectos]: projects/ -->
 <!-- [mini-projects]: mini-projects/ -->
 <!-- [certificaciones]: certifications/ -->
-[resumen]: resume/
+[resumen]: resumen/
