@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: resumen
 title: Resumen
 hide_description: true
 menu: true
